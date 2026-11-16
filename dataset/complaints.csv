@@ -1,0 +1,61 @@
+complaint,category
+My UPI payment failed but money was deducted from my bank account,UPI and Payments
+The receiver did not receive the money I sent through UPI,UPI and Payments
+My UPI transaction is pending for many hours,UPI and Payments
+I was charged twice for one UPI transfer,UPI and Payments
+The QR code payment failed but my balance decreased,UPI and Payments
+I cannot send money using my UPI app,UPI and Payments
+My UPI refund has not arrived yet,UPI and Payments
+The bank has not reversed my failed online transfer,UPI and Payments
+I need help with a wrong UPI transfer,UPI and Payments
+My mobile payment transaction shows processing,UPI and Payments
+My debit card is blocked and I cannot use it,Cards
+I was charged an unknown amount on my debit card,Cards
+My credit card payment was declined at the shop,Cards
+I have not received my replacement debit card,Cards
+There is an unauthorized transaction on my credit card,Cards
+My card is damaged and the ATM cannot read it,Cards
+I want to dispute a credit card transaction,Cards
+My new debit card has not been delivered,Cards
+The bank charged an incorrect annual card fee,Cards
+I cannot activate my debit card,Cards
+My personal loan application is still pending,Loans
+The loan EMI was deducted two times,Loans
+I need a statement for my home loan,Loans
+The interest rate on my loan is different from what was promised,Loans
+I want to know the outstanding balance on my loan,Loans
+My loan repayment is not updated in the account,Loans
+The bank has not issued my loan closure letter,Loans
+I need help correcting my loan account details,Loans
+My education loan disbursement is delayed,Loans
+The loan processing fee seems incorrect,Loans
+The ATM did not dispense cash but my account was debited,ATM and Cash
+My cash withdrawal failed at the ATM,ATM and Cash
+The ATM retained my debit card,ATM and Cash
+I received less cash than the amount shown in the ATM receipt,ATM and Cash
+The ATM is not accepting my card,ATM and Cash
+I want to report a cash withdrawal issue,ATM and Cash
+Cash was debited but not dispensed by the machine,ATM and Cash
+The ATM is out of service near my home,ATM and Cash
+I cannot withdraw money from an ATM,ATM and Cash
+The ATM transaction receipt shows an incorrect amount,ATM and Cash
+I cannot log in to internet banking,Internet Banking
+My online banking password reset is not working,Internet Banking
+The bank website keeps showing an error,Internet Banking
+I cannot add a beneficiary to net banking,Internet Banking
+My internet banking account is locked,Internet Banking
+I am unable to download my bank statement online,Internet Banking
+The OTP for online banking is not arriving,Internet Banking
+My online banking session ends repeatedly,Internet Banking
+I cannot access the bank mobile application,Internet Banking
+The bank website is not loading on my computer,Internet Banking
+Please update my registered mobile number,Account Services
+I need a bank account statement for last month,Account Services
+There is an incorrect charge in my savings account,Account Services
+I want to update my address in the bank records,Account Services
+My account has been frozen without explanation,Account Services
+I need help changing my nominee details,Account Services
+The minimum balance penalty charged is incorrect,Account Services
+I want to close my savings account,Account Services
+My account balance is not updated correctly,Account Services
+I have not received my cheque book,Account Services
